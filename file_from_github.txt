@@ -7,3 +7,7 @@ I just pulled it, added this text and now I will push it back.
 -------------
 
 Hey, trying to cause a conflict, this line is from my local computer.
+
+-------------
+
+Conflict has been resolved!
